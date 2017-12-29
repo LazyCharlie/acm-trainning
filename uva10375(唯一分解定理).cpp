@@ -3,7 +3,7 @@ using namespace std;
 int p, q, r, s;
 int ans[10000];
 vector<int>prime;
-bool vis[10001];//³õÊ¼»¯ 
+bool vis[10001];//åˆå§‹åŒ–
 int e[2000];
 void Prime(int n)
 {
