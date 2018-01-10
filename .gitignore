@@ -1,5 +1,5 @@
 .DS_Store
-
+*.exe
 # Images
 images/avatars/
 images/captchas/
